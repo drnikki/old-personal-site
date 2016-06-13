@@ -13,3 +13,6 @@ markdown: kramdown
 
 # System stuff
 timezone: America/Los_Angeles
+
+gems:
+- jekyll-redirect-from

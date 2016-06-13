@@ -3,7 +3,7 @@ layout: post
 title: "Getting Skype History"
 date: 2012-10-24 16:03
 comments: true
-categories: [sqlite3, skype, obsessive data collection, life changing snippets]
+categories: [sqlite3, skype]
 ---
 
 I hate Skype, but I'm stuck using it.  Part of my problem with it is that logs get very large very quickly and going back to find something you forgot to write down (like a server addres) takes forever.  

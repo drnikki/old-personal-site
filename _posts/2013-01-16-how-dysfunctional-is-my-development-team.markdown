@@ -3,15 +3,14 @@ layout: post
 title: "How dysfunctional is my development team?"
 date: 2013-01-16 16:12
 comments: true
-categories: [quiz, teams, best practices] 
 ---
 
-Next Friday, I'll be presenting at [SandCamp][] on [best practices for teams][]. Naturally, I’ve been thinking about what makes a good team in general, and a good software development team specifically.  For most of my career, I’ve been part of development teams at development shops or technical companies.  Those places already had forward-thinking technical people making infrastructure decisions and crafting the technical culture (for better or worse).  By the time I came along, most of the kinks had been worked out. 
+Next Friday, I'll be presenting at [SandCamp][] on [best practices for teams][]. Naturally, I’ve been thinking about what makes a good team in general, and a good software development team specifically.  For most of my career, I’ve been part of development teams at development shops or technical companies.  Those places already had forward-thinking technical people making infrastructure decisions and crafting the technical culture (for better or worse).  By the time I came along, most of the kinks had been worked out.
 
-But I don't work at a technical company right now - I work at an advertising agency. 
+But I don't work at a technical company right now - I work at an advertising agency.
 <!-- more -->
 
-The more time I spend here, the more I realize: advertising agencies are **the exact opposite** of technical companies.  They’re filled with forward-thinking non-technical people. Most agencies used to be print/media focused. But, times change and agencies change along with them.  Now most advertising agencies have in-house development teams. A lot of these agencies brand themselves as bleeding-edge and interactive-focused.  But those same people who have brilliant creative visions for agencies are rarely able to nurture a technical department. Developers at ad agencies often become after-thoughts. After the brief is done, a producer will get a developer involved to "execute the vision." By that time, it's often too late to correct flaws in the design, or point out potential architectural pitfalls. 
+The more time I spend here, the more I realize: advertising agencies are **the exact opposite** of technical companies.  They’re filled with forward-thinking non-technical people. Most agencies used to be print/media focused. But, times change and agencies change along with them.  Now most advertising agencies have in-house development teams. A lot of these agencies brand themselves as bleeding-edge and interactive-focused.  But those same people who have brilliant creative visions for agencies are rarely able to nurture a technical department. Developers at ad agencies often become after-thoughts. After the brief is done, a producer will get a developer involved to "execute the vision." By that time, it's often too late to correct flaws in the design, or point out potential architectural pitfalls.
 
 And sometimes, developers and designers intuitively know that the way they're working isn't right, but can't identify exactly what the problem is or how to fix it. If you find yourself in a similar situation, take the quiz!
 
@@ -28,7 +27,7 @@ Answer *True* or *False* to each of the following statements:
 * I have a suggestion about a breakdown in our process.  I know my managers are going to be receptive to my ideas.
 * I can approach the design team about a problem and be sure we’ll find a solution that meets both of our needs.
 
-If you answered *true* to most of the statements above, congratulations! There is nothing more to do - rejoice in your awesome team and go build cool stuff! 
+If you answered *true* to most of the statements above, congratulations! There is nothing more to do - rejoice in your awesome team and go build cool stuff!
 
 If you answered *false* to most of the statements above, it's time for an intervention.  Personally, I'm working to create an infrastructure and cultural shift that ensures that everyone on my team will be able to answer *true* to every statement.
 I'll be writing more about it, but if you're doing the same, [let's talk].

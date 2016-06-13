@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikki Stevens</title>
+    <description>Nikki Stevens is an open-source software engineer and technology manager.  It&#39;s all about Drupal, diversity, technology and bulldogs.
+</description>
+    <link>http://www.drnikki.org/</link>
+    <atom:link href="http://www.drnikki.org/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 13 Jun 2016 13:26:02 -0700</pubDate>
+    <lastBuildDate>Mon, 13 Jun 2016 13:26:02 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Trusting the people in the interview room</title>
+        <description>&lt;h3 id=&quot;making-bad-hiring-choices&quot;&gt;Making bad hiring choices&lt;/h3&gt;
+&lt;p&gt;I’ve been actively interviewing and part of the hiring process for engineers, project managers and product owners for the last 8 years.  In that time, I’ve probably hired about 30 people (less if you exclude long-term contractors) to work with me directly, and been a voice at the table for the hiring of about another 20 people. The majority of the people to whom I’ve given jobs have worked out wonderfully and I’d be happy to work with nearly all of them again.&lt;/p&gt;
+
+&lt;p&gt;The people who didn’t work out all had one thing in common - we hired them even though someone in the room didn’t want to hire them.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-are-people-in-the-room&quot;&gt;Why are people in the room?&lt;/h3&gt;
+&lt;p&gt;I think the first mistake we made was not identifying the roles that people were in the room to play.  In a room of engineers interviewing another engineer, of course we’re all there to vet the candidate’s technical ability. But, because we’re all different, with different abilities and different qualities we look at in a candidate.  In that sense, we’re all also there to decide, individually, “Is this person someone I want to work with?”&lt;/p&gt;
+
+&lt;p&gt;The ways that people come to a yes or no answer to that question are varied, and I can only speak for the ways in which I come to that answer.  But what I’ve learned is that when someone says “No, something feels off,” we need to listen to that and honor that.  If we’re going to overrule a person’s opinion on a person, they probably shouldn’t be in the room to begin with, or their role needs to be more clearly defined.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-did-people-say-no&quot;&gt;Why did people say no?&lt;/h3&gt;
+&lt;p&gt;In nearly every case when things didn’t work out (but I was part of the choice to hire them anyway), the person who didn’t want them there could only articulate similar to “something just feels off.”&lt;/p&gt;
+
+&lt;p&gt;It’s a slippery slope when trying to honor people’s perceptions and intuitions, and also help them see through any unconscious bias they might be having against the interview candidate. This comes back to trusting that the interviewers in the room are the right people and that you as the hiring manager can trust them to give informed and thoughtful opinions.  I’ve made the mistake of saying “Can you give me something more than ‘something feels off’?”, watched them stumble, and then dismissed their hunch and pulled the hiring trigger.  This has never, to date, worked out in my favor.&lt;/p&gt;
+
+&lt;h3 id=&quot;tldr&quot;&gt;tl;dr&lt;/h3&gt;
+&lt;p&gt;Trust the people you’re interviewing with and then trust the opinions they offer on the candidates.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 30 Nov 2015 10:14:00 -0800</pubDate>
+        <link>http://www.drnikki.org/2015/11/30/trusting-your-hirers.html</link>
+        <guid isPermaLink="true">http://www.drnikki.org/2015/11/30/trusting-your-hirers.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>$1 per word</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://www.drnikki.org/_assets/20150830.jpg&quot; alt=&quot;My helpful screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;thanks-guys&quot;&gt;“Thanks, guys.”&lt;/h3&gt;
+&lt;p&gt;In July, my company’s in-house technology department comprised Jason Savino, Mike Klass and me. During morning standups, there would be the three of us and a few male stakeholders - the VP of Product, a project manager, maybe the VP of Growth. But everyone on the call was male.&lt;/p&gt;
+
+&lt;p&gt;As I was addressing these groups, I heard myself saying “guys” - “Thanks, guys”; “Good morning, guys” - and I gave myself a pass because it &lt;em&gt;was&lt;/em&gt; actually a group of guys. I specifically thought to myself “This is an appropriate thing to say because they are, in fact, all individuals who identify as male.”  In retrospect, the fact that I heard myself say it and then rationalized its use should have been fair warning that it’s not behavior I want to model. In retrospect.&lt;/p&gt;
+
+&lt;p&gt;One day, Savino said to me, “Hey, you should stop using ‘guys’.”&lt;/p&gt;
+&lt;p class=&quot;first-line-indent&quot;&gt;&quot;I thought about that,&quot; I said and immediately thought-but-did-not-say &quot;See, I&#39;m smart and I&#39;m the boss and I think of everything!&quot; Defensiveness is another great warning sign, by the way.&lt;/p&gt;
+&lt;p class=&quot;first-line-indent&quot;&gt;&quot;Right, but if you can say it, why can&#39;t I?&quot;&lt;/p&gt;
+
+&lt;p&gt;There are really two lessons here: one, always hire people who will tell you when you’re saying something stupid; and two, &lt;strong&gt;there’s never a good reason to gender a group&lt;/strong&gt;.  &lt;em&gt;Even if&lt;/em&gt; it’s a group of men. &lt;em&gt;Even if&lt;/em&gt; you know for sure that all of those men identify as male and are comfortable being addressed with male pronouns and male collective words.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/when-greeting-customers.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-guys-jar&quot;&gt;The Guys Jar&lt;/h3&gt;
+
+&lt;p&gt;Because we are a behavior change company that incentivizes change with money, I created the “Guys” jar.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/20150830.jpg&quot; class=&quot;img-med&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Inspired by the swear jar (which, if we’re being honest, I could also benefit from), I’m putting a dollar into the jar for each time I used a gendered collective word. Every time I say “guys,” $1. “Dudes” or “bros?” $1.  “Kind and gentle sirs,” $1 and a trip back to the present day.&lt;/p&gt;
+
+&lt;p&gt;There is a lot of &amp;lt;a href=”&lt;a href=&quot;https://subfictional.com/2012/07/02/language-matters-stop-using-guys-to-address-mix-gender-groups/&quot;&gt;excellent&lt;/a&gt; &lt;a href=&quot;http://mic.com/articles/115090/guys-can-we-stop-calling-everyone-guys-already&quot;&gt;writing&lt;/a&gt; about why we should address groups of people without being exclusionary or gendered and I won’t repeat it here.&lt;/p&gt;
+
+&lt;p&gt;The one thing that I’m still struggling with is that after I exorcise ‘guys’ from my vocabulary, something else has to take its place.&lt;/p&gt;
+
+&lt;p&gt;To my ear, “folks” feels anachronistic, “everyone” feels robotic and “friends” feels false and saccharine.&lt;/p&gt;
+
+&lt;p&gt;We are, in all seriousness, going back and forth about whether or not “homies” is gendered or bogged down with other issues. An &lt;a href=&quot;http://www.oakland.edu/upload/docs/WRT/Cat%202%203rd%20Place%20James%20Gillen%20III.pdf&quot;&gt;informal research paper&lt;/a&gt; says it’s fine, but I’m steering clear of it just in case. Though it’s my favorite runner up so far.&lt;/p&gt;
+
+&lt;h3 id=&quot;channel-to-something-positive&quot;&gt;Channel to something positive&lt;/h3&gt;
+
+&lt;p&gt;I don’t know how many times I’m going to slip and say “guys” or similar.  As I was looking at the folded dollar bills in my ever-more-crowded mason jar, I saw this tweet by my friend Furiegh:&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Re-upping my donation to &lt;a href=&quot;https://twitter.com/TransEquality&quot;&gt;@TransEquality&lt;/a&gt; while waiting on hold, navigating more bureaucracy around my gender. Channel to something positive.&lt;/p&gt;&amp;mdash; fureigh (@fureigh) &lt;a href=&quot;https://twitter.com/fureigh/status/635923901076279296&quot;&gt;August 24, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;So, when the jar is full I’ll be taking whatever is in it, doubling it, and channeling it to something positive. &lt;a href=&quot;http://www.ashedryden.com&quot;&gt;Ashe Dryden&lt;/a&gt; does amazing work promoting diversity and inclusivity in technology and I’ll be &lt;a href=&quot;http://www.ashedryden.com/donate&quot;&gt;donating&lt;/a&gt; everything to her work when the jar fills up.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading, folks.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 Aug 2015 10:14:00 -0700</pubDate>
+        <link>http://www.drnikki.org/2015/08/01/words-matter-1.html</link>
+        <guid isPermaLink="true">http://www.drnikki.org/2015/08/01/words-matter-1.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tech In Motion: Women in Tech</title>
+        <description>&lt;h3 id=&quot;no-binders&quot;&gt;No binders&lt;/h3&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;They may not be in Binders, but it&#39;s a room full of womentechies. &lt;a href=&quot;https://twitter.com/search/%23TechInMotion&quot;&gt;#TechInMotion&lt;/a&gt; &lt;a href=&quot;http://t.co/IoD3gEeZto&quot; title=&quot;http://twitter.com/mmsuperflyjr/status/314880189857423360/photo/1&quot;&gt;twitter.com/mmsuperflyjr/s…&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mallory Johns (@mmsuperflyjr) &lt;a href=&quot;https://twitter.com/mmsuperflyjr/status/314880189857423360&quot;&gt;March 21, 2013&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Last night at AlleyNYC, I was part of the Women in Tech panel at the Tech in Motion meetup. On the eve of the SendGrid/Adria/PyCon debacle, we met to talk about being women in leadership positions, obstacles we’ve overcome, and advice for women who want to be leaders (and the  men that are in their lives).&lt;/p&gt;
+
+&lt;p&gt;A quick round up of highlights of the event.&lt;/p&gt;
+
+&lt;p&gt;Not only did &lt;a href=&quot;https://twitter.com/bethgilfeather&quot;&gt;Beth Gilfeather&lt;/a&gt; sneak me a glass of wine right before the panel started, she gave some really great advice about picking the right partner, staying balanced and rising to the top.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;CEO of Motion Recruitment Partners shares how she ended up in her management seat at &lt;a href=&quot;https://twitter.com/search/%23TechInMotion&quot;&gt;#TechInMotion&lt;/a&gt; w/ @&lt;a href=&quot;https://twitter.com/jobspringnyc&quot;&gt;jobspringnyc&lt;/a&gt; &lt;a href=&quot;http://t.co/qHU3rUdTy0&quot; title=&quot;http://twitter.com/E_BAUM/status/314885986553327616/photo/1&quot;&gt;twitter.com/E_BAUM/status/…&lt;/a&gt;&lt;/p&gt;&amp;mdash; Emily Baumgartner (@E_BAUM) &lt;a href=&quot;https://twitter.com/E_BAUM/status/314885986553327616&quot;&gt;March 21, 2013&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.linkedin.com/in/cailinanne&quot;&gt;Cailin Nelson&lt;/a&gt; gave wonderful perspective about the difficulties of working with men vs her physics PhD.  My favorite was her thought that being a woman leading men can be an advantage because she doesn’t set off any competitive urges in the men she manages.  Definitely a testament to her leadership skills.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Cailin Neldon: Nothing will ever be as terrible as my PhD qualifying exam. Haa I love this panel so much. &lt;a href=&quot;https://twitter.com/search/%23fangirling&quot;&gt;#fangirling&lt;/a&gt;&lt;a href=&quot;https://twitter.com/search/%23techinmotion&quot;&gt;#techinmotion&lt;/a&gt;&lt;/p&gt;&amp;mdash; rachelsklar (@rachelsklar) &lt;a href=&quot;https://twitter.com/rachelsklar/status/314889532262715393&quot;&gt;March 22, 2013&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/lindsaybressler&quot;&gt;Lindsay Bressler&lt;/a&gt; shared some of her great experiences about making sure she always had a seat at the table in meetings.  But my favorite was when she encouraged women to trust their intution - if you have a good idea or point to make in your head, don’t wait for someone else to say it for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/annarchyy&quot;&gt;Anna Khan&lt;/a&gt; gave some great contrast to how men and women pitch VCs.  The moral for women: pitch even if your idea isn’t ready.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Anna Khan of Bessemer highlights the need for more women on the other side of the table. &amp;#10;&lt;a href=&quot;https://twitter.com/hashtag/vc?src=hash&quot;&gt;#vc&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/techinmotion?src=hash&quot;&gt;#techinmotion&lt;/a&gt;&lt;/p&gt;&amp;mdash; Cynthia Schames (@CynthiaSchames) &lt;a href=&quot;https://twitter.com/CynthiaSchames/status/314884887125581824&quot;&gt;March 21, 2013&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.twitter.com/carolmirakove&quot;&gt;Carol Mirakove&lt;/a&gt; gave thougthful and nuanced advice about managing inappropriate workplace humor, staying informed and reading as much of everything as you can.&lt;/p&gt;
+
+&lt;p&gt;Merrill Ferguson was a force to be reckoned with.  She gave spot-on advice about not caring what anyone thinks of you, not being afraid to say what you see going on around you, and about the importance of mentors.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Merrill Ferguson wishes she had more female mentors/role models above her. Also no longer really cares what ppl think of her.&lt;a href=&quot;https://twitter.com/search/%23techinmotion&quot;&gt;#techinmotion&lt;/a&gt;&lt;/p&gt;&amp;mdash; rachelsklar (@rachelsklar) &lt;a href=&quot;https://twitter.com/rachelsklar/status/314887717567750144&quot;&gt;March 21, 2013&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Even though my parting advice was to be cocky, I was honored and humbled to be on a panel of such smart and accomplished women.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Women: &quot;Talk a HUGE game.&quot; &lt;a href=&quot;https://twitter.com/search/%23techinmotion&quot;&gt;#techinmotion&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search/%23leanin&quot;&gt;#leanin&lt;/a&gt;&lt;/p&gt;&amp;mdash; Carlee Jean (@MsCarleeJean) &lt;a href=&quot;https://twitter.com/MsCarleeJean/status/314895838386204673&quot;&gt;March 22, 2013&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;watch-your-tone&quot;&gt;Watch your tone&lt;/h3&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Nikki Stevens VP Eng @&lt;a href=&quot;https://twitter.com/refinery29&quot;&gt;refinery29&lt;/a&gt; laying it out. Been told &quot;watch tone; strong personality; step off&quot; as a woman in tech. &lt;a href=&quot;https://twitter.com/search/%23techinmotion&quot;&gt;#techinmotion&lt;/a&gt;&lt;/p&gt;&amp;mdash; Cynthia Schames (@CynthiaSchames) &lt;a href=&quot;https://twitter.com/CynthiaSchames/status/314883924692172800&quot;&gt;March 21, 2013&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;After the panel, a man came up to me and asked what he should do when &lt;em&gt;he&lt;/em&gt; has a problem with a woman’s tone. I gave him the best advice I could think of, but more than the advice, I loved that he asked.&lt;/p&gt;
+
+&lt;p&gt;If I missed you or we didn’t connect, I’d love to hear from you.&lt;/p&gt;
+
+&lt;p&gt;Huge thanks to all of the women on the panel: &lt;a href=&quot;https://twitter.com/annarchyy&quot;&gt;Anna Khan&lt;/a&gt;, &lt;a href=&quot;http://www.twitter.com/carolmirakove&quot;&gt;Carol Mirakove&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/bethgilfeather&quot;&gt;Beth Gilfeather&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/merrillbeth&quot;&gt;Merrill Ferguson&lt;/a&gt;, &lt;a href=&quot;http://www.linkedin.com/in/cailinanne&quot;&gt;Cailin Nelson&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/lindsaybressler&quot;&gt;Lindsay Bressler&lt;/a&gt;; moderator &lt;a href=&quot;https://twitter.com/MandyIWalker&quot;&gt;Mandy Walker&lt;/a&gt;; host [Sloane Barbour][] and of course Rachel Sklar, &lt;a href=&quot;https://vine.co/v/bDz0qMBWxmn&quot;&gt;being all over the internet&lt;/a&gt; even when she was with us.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;What an amazing turn out for &lt;a href=&quot;https://twitter.com/hashtag/womenintech?src=hash&quot;&gt;#womenintech&lt;/a&gt; hosted by &lt;a href=&quot;https://twitter.com/hashtag/techinmotion?src=hash&quot;&gt;#techinmotion&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/nyc?src=hash&quot;&gt;#nyc&lt;/a&gt; &lt;a href=&quot;http://t.co/Jy0lNtH9rr&quot;&gt;pic.twitter.com/Jy0lNtH9rr&lt;/a&gt;&lt;/p&gt;&amp;mdash; Workbridge NY (@WorkbridgeNY) &lt;a href=&quot;https://twitter.com/WorkbridgeNY/status/314887708201865216&quot;&gt;March 21, 2013&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <pubDate>Fri, 22 Mar 2013 10:14:00 -0700</pubDate>
+        <link>http://www.drnikki.org/2013/03/22/tech-in-motion-women-in-tech.html</link>
+        <guid isPermaLink="true">http://www.drnikki.org/2013/03/22/tech-in-motion-women-in-tech.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recruiting engineers with your startup&#39;s developer blog.</title>
+        <description>&lt;p&gt;I recently became a Director of Engineering at a startup and one of my first official tasks was to revitalize the company’s very stale developer blog.  I started thinking about what makes a good dev blog, and began writing up recommendations for what I thought the team should do.  I got all the way through these and realized that I could have gone into nearly any startup and given this same advice.  So, here is some advice on how to run your startup’s developer blog.
+&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mission-statement&quot;&gt;Mission Statement&lt;/h3&gt;
+
+&lt;p&gt;Most likely, your startup’s dev blog has primarily been used as a tool for recruitment, and while that’s certainly still an objective, you’ll fare better if it isn’t the main focus.  At it’s core, a developer blog should be written for developers and by developers about everything that goes into making and supporting a your infrastructure. A developer blog should be a blog that’s useful to developers.  That’s it.  Pretty simple.&lt;/p&gt;
+
+&lt;p&gt;As a recruitment platform, you need to demonstrate that you are a team worth joining. In order to demonstrate that you are a team worth joining, you need to look at what your goals are - both as a company and as an engineering department.  What kind of people are you trying to attract? What kind of message are you trying to send? The company I’m at doesn’t seem to have those written up yet, but I honestly don’t think it matters.  The standard answers to those questions are “smart, hardworking people.”&lt;/p&gt;
+
+&lt;h3 id=&quot;are-you-a-team-worth-joining&quot;&gt;Are you a team worth joining?&lt;/h3&gt;
+
+&lt;p&gt;What kinds of teams to developers want to join?  With no scientific evidence and only a brief google search, but with 16 years as a working developer, I’m going to guess that most developers will say they want two things: 1) to work on cool shit with 2) people they enjoy being around.  Often developers will add that they also want to work at a company that values and supports their development team.&lt;/p&gt;
+
+&lt;p&gt;You need to demonstrate that you have the company culture that supports developers. That you are a self-reflective team that is able to process your failures and adjust accordingly.  That you are willing to work to deliver a quality product without burning out developers in the process.&lt;/p&gt;
+
+&lt;h4 id=&quot;and-while-were-talking-about-culture&quot;&gt;And while we’re talking about culture…&lt;/h4&gt;
+
+&lt;p&gt;It’s tempting to use your developer blog as a way to show people how “fun” it is to work at your startup.  You have beer fridge and happy hours and cases of champagne scattered around the office after a company meeting.  You need to separate development from drinking culture. Good developers may not drink, but even if they do, they may not have an interest in drinking with their coworkers. Shanley has an &lt;a href=&quot;http://blog.prettylittlestatemachine.com/blog/2013/02/20/what-your-culture-really-says/&quot;&gt;excellent write up&lt;/a&gt; of what your culture is really saying.  Go read it.  (This is also a good write up about &lt;a href=&quot;http://ryanfunduk.com/culture-of-exclusion/&quot;&gt;drinking and exclusion&lt;/a&gt; in tech.)&lt;/p&gt;
+
+&lt;p&gt;The reality is that while you’re struggling to build something cool you spend a lot of time figuring out just how not to drown.  Sometimes you survive by drinking beers while you’re doing a 3am push.  It’s fine that it happens, but it shouldn’t be a common occurrence and most certainly should not be how you portray your team on your developer blog.&lt;/p&gt;
+
+&lt;h3 id=&quot;but-how&quot;&gt;But How?!&lt;/h3&gt;
+
+&lt;p&gt;It’s actually quite simple.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Find things you can blog about&lt;br /&gt;
+Your team can probably come up with a bunch of things they can blog about.  Your company/brand may have some things they don’t want discussed.  You may have ideas about topics you’d like to investigate.  Go forth and find ideas.  If this is where you’re stuck, well, I don’t have any other help for you just yet.&lt;/li&gt;
+  &lt;li&gt;Put blog stories into your work tracker &lt;br /&gt;
+Pivotal Tracker, JIRA, ScrumSomethingSomething - whatever you use, make writing blog posts a point-worthy task that’s accomplished in a sprint just like any other.&lt;/li&gt;
+  &lt;li&gt;Publish&lt;br /&gt;
+And rejoice when you get to share things you’re learning and get feedback on things that you’re still uncovering.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;whats-in-it-for-me&quot;&gt;What’s in it for me?!&lt;/h3&gt;
+
+&lt;p&gt;You will benefit because doing this you will:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;think critically about your work&lt;/li&gt;
+  &lt;li&gt;raise your public profile&lt;/li&gt;
+  &lt;li&gt;increase your &lt;a href=&quot;http://news.ycombinator.com/item?id=5338719&quot;&gt;open source contributions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And the most self-serving reason of all: it will make you a &lt;a href=&quot;http://stackoverflow.com/questions/99460/does-writing-and-speaking-on-software-make-you-a-better-programmer&quot;&gt;better developer&lt;/a&gt;.  If you’re not a developer and don’t care about any of those things, probably stop reading because I can’t help you just yet.&lt;/p&gt;
+
+&lt;p&gt;The reality is that much of the work you do is probably fairly standard development, so focus on the things that &lt;em&gt;do&lt;/em&gt; make you unique - the approaches you take to solving problems, the things you do that don’t work, and the ways that you interact with your product and your process.&lt;/p&gt;
+
+&lt;p&gt;I believe that sharing your path as a technology team supporting a growing startup will contribute value to the broader “development blog” landscape and you’ll as demonstrate that you are a team that good developers want to join.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-sustainable-healthy-blog-plan&quot;&gt;A Sustainable ‘Healthy Blog’ plan&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Get each developer to write a blog about something they’re working on individually.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This can be difficult because not every developer goes home and hacks on things.  The assumption that they do can be exclusionary (often people
+who don’t immediately fit into the “brogrammer” culture are excluded from this - people have family obligations that prevent them from leaving a job coding
+all day to go home and code all night). If they don’t work on side projects, encourage them to blog about something they’re learning at work.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;If they’re not learning anything at work, you have bigger problems than stale content on your developer blog.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Each time there’s a sprint retrospective or project post-mortem, ask: “can you blog about this?”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re not sure, here are some more questions you can ask:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Did you try something new that worked?&lt;/li&gt;
+  &lt;li&gt;Did you try something new that didn’t work?&lt;/li&gt;
+  &lt;li&gt;Did you stop doing something good or start doing something bad?&lt;/li&gt;
+  &lt;li&gt;Did a team member take an action that impacted the rest of the team?&lt;/li&gt;
+  &lt;li&gt;Did a major technology fail us? Why?&lt;/li&gt;
+  &lt;li&gt;Did something completely unexpected happen that threw us off course?&lt;/li&gt;
+  &lt;li&gt;Did you systematically deny a truth that would have made this project better?&lt;/li&gt;
+  &lt;li&gt;Did you under- or over-estimate?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you don’t answer yes to at least a few of those questions, you may have a development team full of automatons.  Out of retrospectives and post-mortems come valuable insights about breakdown in process, changes that will improve workflow, and problems caused by technical short-sightedness.  Give your developers a task to write up an overview or deep-dive of this for the blog.  If it ends up filled with too much proprietary or otherwise private information, you’ve still won as a team because everyone can read it, and you’ve given a developer practice in distilling, organizing and presenting information.  At worst, you’ve helped your developer grow. At best, you’ve done that &lt;em&gt;and&lt;/em&gt; benefited your blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keep a bucket list of possible blog topics.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;New technology, hackathons, nuanced challenges, that list of steps from above - the more you start thinking “Can I write a blog about this?” the more you’ll find things to blog about, I promise.&lt;/p&gt;
+
+&lt;p&gt;###Yes, but…&lt;/p&gt;
+
+&lt;p&gt;Yes, there is always “money” work to do. There are always projects that need attention. There is always technical debt that you could be paying off. Is having an active dev blog a worthwhile use of the business’s time?  It is.  Go back and re-read the “what’s in it for me section.”  It’s going to be nearly impossible for developers &lt;em&gt;not&lt;/em&gt; to benefit from involvement in this process. I read somewhere that developers can have three years of experience, or can have the same year three times.  This is one way you can guarantee that your developers are growing.&lt;/p&gt;
+
+&lt;p&gt;And if you’re feeling altruistic, think about how you’re joining in a &lt;a href=&quot;http://en.wikipedia.org/wiki/Community_of_practice&quot;&gt;community of practice&lt;/a&gt; that’s larger than your functional or project team and that is going to enrich everyone’s experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;tl;dr:&lt;/strong&gt; If you want to recruit good engineers, don’t (just) post pictures of mimosas on your developer blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Did I miss anything?  Tell me! &lt;a href=&quot;http://twitter.com/drnikki&quot;&gt;@drnikki&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 12 Mar 2013 10:00:00 -0700</pubDate>
+        <link>http://www.drnikki.org/2013/03/12/recruiting-engineers-with-your-developer-blog.html</link>
+        <guid isPermaLink="true">http://www.drnikki.org/2013/03/12/recruiting-engineers-with-your-developer-blog.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>How dysfunctional is my development team?</title>
+        <description>&lt;p&gt;Next Friday, I’ll be presenting at &lt;a href=&quot;http://sandcamp.org&quot;&gt;SandCamp&lt;/a&gt; on &lt;a href=&quot;https://sandcamp.org/best-practices-teams&quot;&gt;best practices for teams&lt;/a&gt;. Naturally, I’ve been thinking about what makes a good team in general, and a good software development team specifically.  For most of my career, I’ve been part of development teams at development shops or technical companies.  Those places already had forward-thinking technical people making infrastructure decisions and crafting the technical culture (for better or worse).  By the time I came along, most of the kinks had been worked out.&lt;/p&gt;
+
+&lt;p&gt;But I don’t work at a technical company right now - I work at an advertising agency.
+&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;The more time I spend here, the more I realize: advertising agencies are &lt;strong&gt;the exact opposite&lt;/strong&gt; of technical companies.  They’re filled with forward-thinking non-technical people. Most agencies used to be print/media focused. But, times change and agencies change along with them.  Now most advertising agencies have in-house development teams. A lot of these agencies brand themselves as bleeding-edge and interactive-focused.  But those same people who have brilliant creative visions for agencies are rarely able to nurture a technical department. Developers at ad agencies often become after-thoughts. After the brief is done, a producer will get a developer involved to “execute the vision.” By that time, it’s often too late to correct flaws in the design, or point out potential architectural pitfalls.&lt;/p&gt;
+
+&lt;p&gt;And sometimes, developers and designers intuitively know that the way they’re working isn’t right, but can’t identify exactly what the problem is or how to fix it. If you find yourself in a similar situation, take the quiz!&lt;/p&gt;
+
+&lt;p&gt;Answer &lt;em&gt;True&lt;/em&gt; or &lt;em&gt;False&lt;/em&gt; to each of the following statements:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;My entire department uses the same version control system, wiki, and ticketing system.&lt;/li&gt;
+  &lt;li&gt;I’m a developer starting a new project. I know where to go to create my repository, tickets and anything else I need.&lt;/li&gt;
+  &lt;li&gt;I’m a developer looking for comps.  I know where the design team keeps their comps for my projects.  I also know each time a comp is updated or changed without having to go look.&lt;/li&gt;
+  &lt;li&gt;Each time a project is scoped, I, or another developer, am consulted to validate the feasibility of the overall plan.&lt;/li&gt;
+  &lt;li&gt;I have regular meetings with my larger, non-tech project leads about the status of the project’s different parts.&lt;/li&gt;
+  &lt;li&gt;I have regular meetings within my technical department to do code reviews / educational seminars / showing off neat stuff.&lt;/li&gt;
+  &lt;li&gt;I’m excited to learn from other members on my team.  I think I work with amazing programmers.&lt;/li&gt;
+  &lt;li&gt;I’m a developer looking to improve my skills.  I know my managers are going to be excited to help me do so.&lt;/li&gt;
+  &lt;li&gt;I have a suggestion about a breakdown in our process.  I know my managers are going to be receptive to my ideas.&lt;/li&gt;
+  &lt;li&gt;I can approach the design team about a problem and be sure we’ll find a solution that meets both of our needs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you answered &lt;em&gt;true&lt;/em&gt; to most of the statements above, congratulations! There is nothing more to do - rejoice in your awesome team and go build cool stuff!&lt;/p&gt;
+
+&lt;p&gt;If you answered &lt;em&gt;false&lt;/em&gt; to most of the statements above, it’s time for an intervention.  Personally, I’m working to create an infrastructure and cultural shift that ensures that everyone on my team will be able to answer &lt;em&gt;true&lt;/em&gt; to every statement.
+I’ll be writing more about it, but if you’re doing the same, &lt;a href=&quot;http://twitter.com/drnikki&quot;&gt;let’s talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Did I miss anything?  Tell me! &lt;a href=&quot;http://twitter.com/drnikki&quot;&gt;@drnikki&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 16 Jan 2013 16:12:00 -0800</pubDate>
+        <link>http://www.drnikki.org/2013/01/16/how-dysfunctional-is-my-development-team.html</link>
+        <guid isPermaLink="true">http://www.drnikki.org/2013/01/16/how-dysfunctional-is-my-development-team.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Stupid cache is stupid</title>
+        <description>&lt;p&gt;Recently, I worked on a project where the client controlled their production environment.  They’re using EdgeCast and we didn’t have access to force a cache clear when deploying new releases to production. So we’d push, ask them to clear cache, and wait as many as 8 - 10 hours to make sure everything was working fine.  This sucks, but what I didn’t expect was that even after they cleared the cache, old files were still being served. So we’d ask for another cache clear, and wait. This was as painful as it sounds.&lt;/p&gt;
+
+&lt;p&gt;Eventually, they asked us to simply put no-cache headers on all of our files. This kind of defeats the purpose of even having a CDN, but okay.  We tried that next.  However, even with cache-control headers in place, the CDN would unpredictably serve older versions of .js and .css files.  There was a lot of back and forth and finger pointing about who’s fault it &lt;em&gt;really&lt;/em&gt; was that prior-release .js was still being delivered.  They finally suggested that we rename our asset files with each release.  This &lt;em&gt;also&lt;/em&gt; sucks, but was at least a solution that we could control.  With this script as part of our build, we met them halfway and sort of renamed asset files with each release.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/drnikki/cli-cachebuster&quot;&gt;Here’s the repo&lt;/a&gt; for the super simple script should you ever find yourself in such a stupid position.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 15 Jan 2013 10:25:00 -0800</pubDate>
+        <link>http://www.drnikki.org/2013/01/15/i-hate-you-cache.html</link>
+        <guid isPermaLink="true">http://www.drnikki.org/2013/01/15/i-hate-you-cache.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Is my internet back yet?</title>
+        <description>&lt;p&gt;One of my favorite things about being a programmer is that I can figure out ways to solve little problems.  Little non-problems, even.  Over the last week, there have been Time Warner internet outages in my neighborhood.&lt;/p&gt;
+
+&lt;p&gt;So I built a busted little script will send me a TEXT MESSAGE when my internet has come back on (I love you, Twilio).  I’ve just saved you about 4 minutes writing your own.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/drnikki/is-my-internet-back-yet&quot;&gt;Enjoy&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 11 Dec 2012 16:25:00 -0800</pubDate>
+        <link>http://www.drnikki.org/2012/12/11/is-my-internet-back-yet.html</link>
+        <guid isPermaLink="true">http://www.drnikki.org/2012/12/11/is-my-internet-back-yet.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Getting Skype History</title>
+        <description>&lt;p&gt;I hate Skype, but I’m stuck using it.  Part of my problem with it is that logs get very large very quickly and going back to find something you forgot to write down (like a server addres) takes forever.&lt;/p&gt;
+
+&lt;p&gt;The solution?  Export your skype logs to something grep-able! (Duh.)&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/3947360.js&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;So hot, so easy, put it in cron and run it all the time.&lt;/p&gt;
+
+&lt;p&gt;p.s. Install OSX Developer Tools if you’re on a OSX.&lt;/p&gt;
+
+&lt;p&gt;p.p.s I totally stole this from a Stack Overflow post a while ago.  If I find it, I’ll include the link.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 24 Oct 2012 16:03:00 -0700</pubDate>
+        <link>http://www.drnikki.org/sqlite3/skype/2012/10/24/getting-skype-history.html</link>
+        <guid isPermaLink="true">http://www.drnikki.org/sqlite3/skype/2012/10/24/getting-skype-history.html</guid>
+        
+        
+        <category>sqlite3</category>
+        
+        <category>skype</category>
+        
+      </item>
+    
+      <item>
+        <title>your technology sucks</title>
+        <description>&lt;p&gt;I recently got an email from an organization looking for a Senior Engineer to work on their project.&lt;br /&gt;
+&lt;!-- more --&gt;&lt;/p&gt;
+
+&lt;p&gt;I responded:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hi there,&lt;/p&gt;
+
+  &lt;p&gt;Thanks for reaching out. Can you tell me a little more about the technology you’re using and the make up of your team?&lt;/p&gt;
+
+  &lt;p&gt;Thanks,&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nikki&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A few minutes later, I received their response:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hi Nikki,&lt;/p&gt;
+
+  &lt;p&gt;Thanks for getting back to me. I hope the below information can answer your questions.&lt;/p&gt;
+
+  &lt;p&gt;OUR TECHNOLOGIES&lt;/p&gt;
+
+  &lt;p&gt;[redacted] has a few applications in place that will serve as basic building blocks. You will improve these applications to reflect best practices in software, build an API framework to  shape a software ecosystem at [redacted], and integrate these applications to create a seamless, intuitive user experience. You will also lead the creation of wholly new applications as [redacted]’s software needs mature. In doing so, you will be a pioneer and trailblazer in the rapidly maturing [redacted - industry] technology space, leading the development of a cutting edge online [redacted - industry] platform.&lt;/p&gt;
+
+  &lt;p&gt;OUR TEAM&lt;/p&gt;
+
+  &lt;p&gt;We currently have a nimble product team that includes a full-time developer, a full-time product manager, and other colleagues with expertise in online [redacted - industry], media production, web infrastructure, and [redacted - industry]. Our CIO has a track record of launching software and technology architecture.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;REALLY? SEEEERIOUSLY? You’re going to appease a developer by sending some elevator pitch buzzwords about best practices and software ecosystems? I responded with a polite thanks-but-no-thanks, but now I have the perfect pile of bullshit to give to any startup looking to completely obfuscate their technology stack.  This is for you blogr.io, gab.le, snap.zi, chatd.og or whatever silly web 2.95 names are coming next.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Oct 2012 12:09:00 -0700</pubDate>
+        <link>http://www.drnikki.org/2012/10/16/your-technology-sucks.html</link>
+        <guid isPermaLink="true">http://www.drnikki.org/2012/10/16/your-technology-sucks.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Setting Language manually in Django 1.4</title>
+        <description>&lt;p&gt;I spent today debugging a multilingual django app that I didn’t write.  The problem is that the site’s language was being changed when you used the language switcher, but not if you typed in the url.  So http://example.com/fr would only &lt;em&gt;occasionally&lt;/em&gt; land you on the French version of the site. When you’re using custom language codes for any reason (in our case, we were matching the client’s lang codes) you’re going to have to set the app’s language.
+&lt;!--more--&gt;
+The relevant code:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;manual_language_function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lang&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;hasattr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&#39;session&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;session&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&#39;django_language&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lang&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;c&quot;&gt;# do something else&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Because setting the session isn’t enough, you’ve got to add:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;        &lt;span class=&quot;n&quot;&gt;translation&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;activate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lang&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;And the whole thing for completeness’s sake&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;manual_language_function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lang&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;hasattr&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&#39;session&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;session&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&#39;django_language&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;lang&lt;/span&gt;
+        &lt;span class=&quot;n&quot;&gt;translation&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;activate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;lang&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;c&quot;&gt;# do something else&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;I lost a few hours figuring this out today, so here you go.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Oct 2012 16:49:00 -0700</pubDate>
+        <link>http://www.drnikki.org/2012/10/15/setting-language-manually-in-django-1-dot-4.html</link>
+        <guid isPermaLink="true">http://www.drnikki.org/2012/10/15/setting-language-manually-in-django-1-dot-4.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

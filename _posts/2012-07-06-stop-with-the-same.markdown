@@ -4,11 +4,10 @@ title: "Stop with the Same"
 date: 2012-07-06 15:22
 comments: true
 published: false
-categories: [drupal, nyc]
 ---
 
 
-**Update:** Just so it doesn't get lost, there is also [this post][16] on g.d.o: 
+**Update:** Just so it doesn't get lost, there is also [this post][16] on g.d.o:
 
 During introductions at last night's New York City Drupal User Group (NYCDUG) meetup, each person said a variation of "Hi my name is \_\_\_|\\_\_\_|\\_\_. My drupal.org name is \\_\_\_|\\_\_\_|\\_\_\_|\_. I'm a \_\_\_|\\_\_\_|\\_\_\_| at \\_\_\_|\\_\_\_|\\_\_\_|\__." Some included how long they'd been working with drupal, usually because it had only been a few months. It's a nice thing to share because it reminds the rest of us to make sure we're not leaving anyone out when we casually mention advanced concepts. I think the community is pretty good at embracing the tentative and uncertain beginners and making them feel included.
 
@@ -22,7 +21,7 @@ When it was my turn, I followed the pattern with one small deviation: "Hi, I'm N
 <p>"I'm @<a href="https://twitter.com/drnikki">drnikki</a>, senior developer, and the only girl in the room…" <a href="https://twitter.com/search/%2523Drupal">#Drupal</a> <a href="https://twitter.com/search/%2523NYC">#NYC</a></p>
 <p>— Forest Mars (@forestmars) <a href="https://twitter.com/forestmars/status/210503398083149826" data-datetime="2012-06-06T22:48:15+00:00">June 6, 2012</a></p></blockquote>
 
-There was silence as people scanned the room to see if it was true. Then the men began to clap. My first reaction (because I'm a sarcastic asshole) was that they were applauding as if to say "Oh, congratulations! Look who's got a vagina! Ooh, fancy fancy vagina girl!" Luckily, that's not the case, though it still makes me laugh to think about it. Just the opposite - a few people came up to me wishing there were more women and asking how they could help. 
+There was silence as people scanned the room to see if it was true. Then the men began to clap. My first reaction (because I'm a sarcastic asshole) was that they were applauding as if to say "Oh, congratulations! Look who's got a vagina! Ooh, fancy fancy vagina girl!" Luckily, that's not the case, though it still makes me laugh to think about it. Just the opposite - a few people came up to me wishing there were more women and asking how they could help.
 
 I believe most of the men in that room would like to see more women at NYCDUG meetups. If I'm wrong about that, please don't correct me.
 
@@ -30,33 +29,33 @@ I believe most of the men in that room would like to see more women at NYCDUG me
 <p>— Jen Simmons (@jensimmons) <a href="https://twitter.com/jensimmons/status/210512391262322688" data-datetime="2012-06-06T23:23:59+00:00">June 6, 2012</a></p></blockquote>
 <script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-While this is obviously part of larger societal issues regarding the underrepresentation of women in tech, treatment of girls in STEM classes, and the myriad of workplace injustices, I just want to talk about adults in the New York City Drupal User Group. 
+While this is obviously part of larger societal issues regarding the underrepresentation of women in tech, treatment of girls in STEM classes, and the myriad of workplace injustices, I just want to talk about adults in the New York City Drupal User Group.
 
-When there are 2144 members of the New York Drupal community, why was I the only woman in the room?&#42; If we assume that the community mirrors the national average&#42;&#42;, 25% of technology jobs are held by women. That would mean that there are 536 women in the group. 
+When there are 2144 members of the New York Drupal community, why was I the only woman in the room?&#42; If we assume that the community mirrors the national average&#42;&#42;, 25% of technology jobs are held by women. That would mean that there are 536 women in the group.
 
 There were 45 people there last night  
 44/1608 or 2.73% of men attended the meetup   
-1/536 or 0.18% of women attended the meetup 
+1/536 or 0.18% of women attended the meetup
 
 Now, this issue isn't just about women&#42;&#42;&#42; although that was the catalyst. The issue is about what seems to be a trend of homogeneity at NYCDUG meetings. This is bad. Diversity is good.
 
 1.  **Improve the integrity of source data**  
-    While I stand by my fuzzy math above, it's still pretty fuzzy. &nbsp;We need solid data so that we're not just guessing about attendance and membership ratios. &nbsp;This includes: 
+    While I stand by my fuzzy math above, it's still pretty fuzzy. &nbsp;We need solid data so that we're not just guessing about attendance and membership ratios. &nbsp;This includes:
     *   Generating a report of member demographics. &nbsp;Let's start with the demographics available and add if necessary.
     *   Developing a method to track who attends vs who signs up.
-    *   The developer in me would love to over-engineer this with some sort of &nbsp;d.o %2B latitude / Foursquare, but we could just have a Google doc that people add their usernames to as they introduce themselves. 
+    *   The developer in me would love to over-engineer this with some sort of &nbsp;d.o %2B latitude / Foursquare, but we could just have a Google doc that people add their usernames to as they introduce themselves.
     *   This could also help us to target people who repeatedly sign up and don't attend, so we can gain insight as to the reason(s) why.
 
 2.  **Ask people why they don't come**  
-    Existing members are self-selected, so we know they're already interested in Drupal. &nbsp;How do we get them to participate? &nbsp;Let's ask. Again, we can start by distributing a survey to the community asking them to self-identify and rank their participation. Topics might include: 
+    Existing members are self-selected, so we know they're already interested in Drupal. &nbsp;How do we get them to participate? &nbsp;Let's ask. Again, we can start by distributing a survey to the community asking them to self-identify and rank their participation. Topics might include:
     *   Why aren't they attending?
-    *   Would a non-male DUG make them feel more included? 
+    *   Would a non-male DUG make them feel more included?
     *   Do they feel under-represented in DUG leadership?
     *   Is it simply a timing issue? (Which I don't buy)
     *   Do women just not like meeting and talking about cool stuff? (Not this either)
 
 3.  **Brainstorm ways to get the under-represented people to attend** &nbsp;  
-    After the data is collected, we should meet and discuss ways to increase participation. I'm happy to pick a time and place to gather and encourage people to come up with actionable ideas to make the group more diverse. 
+    After the data is collected, we should meet and discuss ways to increase participation. I'm happy to pick a time and place to gather and encourage people to come up with actionable ideas to make the group more diverse.
 
 I fully support all efforts aimed at increasing the NYCDUG membership both in numbers and diversity. But for now, let's focus on cultivating and encouraging the community we already have. As far as I know, this is the only local initiative to promote diverse participation. If you want to get involved, hit me up on twitter (@drnikki), IRC (drnikki) or email me [nikki@drnikki.org][13]
 
@@ -192,7 +191,7 @@ LizaK replied on Thu, 06/14/2012 - 15:06 PERMALINK
 <p>Anyone that wants to reach me can find me at lizakindred (at) gmail (dot) com. Cross posting to http://groups.drupal.org/node/237188.
 </blockquote>
 
- 
+
 ####MY TWO CENTS
 amycham replied on Thu, 06/14/2012 - 16:04
 <blockquote>
@@ -240,7 +239,7 @@ techgirlgeek replied on Mon, 06/18/2012 - 15:53
 </blockquote>
 
 ####Oh, Liza
-Emma replied on Mon, 06/18/2012 - 16:20 
+Emma replied on Mon, 06/18/2012 - 16:20
 <blockquote>
 <p>Oh Liza - your post broke my heart.
 <p>I found the hack jam at DrupalCON Denver was a humiliating experience (trying to participate in groups of men who would not be engaged to include myself or another woman in the coding portion . We were assigned theme work ( I am a senior developer and suck at design , but that's all I was offered) . We both ended up leaving early to attend the sponsor fair).
@@ -273,5 +272,5 @@ I do try and have remote opportunities for my meetups, and Google Hangout is fun
  [12]: http://drnikki.org#three
  [13]: mailto:nikki%40drnikki.org
  [14]: http://drupal.org/user/155601
- [15]: http://drupal.org/user/392906 
- [16]: http://groups.drupal.org/node/237188 
+ [15]: http://drupal.org/user/392906
+ [16]: http://groups.drupal.org/node/237188

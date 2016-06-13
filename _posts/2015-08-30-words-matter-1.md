@@ -3,8 +3,6 @@ layout: post
 title: "$1 per word"
 date: 2015-08-01 10:14
 comments: true
-categories: [nyc, tech, women in tech]
-
 published: true
 ---
 ![My helpful screenshot]({{ site.url }}/_assets/20150830.jpg)
@@ -31,11 +29,11 @@ Because we are a behavior change company that incentivizes change with money, I 
 
 Inspired by the swear jar (which, if we're being honest, I could also benefit from), I'm putting a dollar into the jar for each time I used a gendered collective word. Every time I say "guys," $1. "Dudes" or "bros?" $1.  "Kind and gentle sirs," $1 and a trip back to the present day.
 
-There is a lot of <a href="<a href="https://subfictional.com/2012/07/02/language-matters-stop-using-guys-to-address-mix-gender-groups/">excellent</a> <a href="http://mic.com/articles/115090/guys-can-we-stop-calling-everyone-guys-already">writing</a> about why we should address groups of people without being exclusionary or gendered and I won't repeat it here. 
+There is a lot of <a href="<a href="https://subfictional.com/2012/07/02/language-matters-stop-using-guys-to-address-mix-gender-groups/">excellent</a> <a href="http://mic.com/articles/115090/guys-can-we-stop-calling-everyone-guys-already">writing</a> about why we should address groups of people without being exclusionary or gendered and I won't repeat it here.
 
-The one thing that I'm still struggling with is that after I exorcise 'guys' from my vocabulary, something else has to take its place. 
+The one thing that I'm still struggling with is that after I exorcise 'guys' from my vocabulary, something else has to take its place.
 
-To my ear, "folks" feels anachronistic, "everyone" feels robotic and "friends" feels false and saccharine. 
+To my ear, "folks" feels anachronistic, "everyone" feels robotic and "friends" feels false and saccharine.
 
 We are, in all seriousness, going back and forth about whether or not "homies" is gendered or bogged down with other issues. An <a href="http://www.oakland.edu/upload/docs/WRT/Cat%202%203rd%20Place%20James%20Gillen%20III.pdf">informal research paper</a> says it's fine, but I'm steering clear of it just in case. Though it's my favorite runner up so far.
 

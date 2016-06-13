@@ -3,7 +3,6 @@ layout: post
 title: "TweetSinger.com"
 date: 2012-09-22 13:00
 comments: true
-categories: 
 ---
 
 We (LBi US, where I’m a developer) just launched TweetSinger.com, a Sony

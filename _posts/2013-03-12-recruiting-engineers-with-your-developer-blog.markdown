@@ -3,10 +3,9 @@ layout: post
 title: "Recruiting engineers with your startup's developer blog."
 date: 2013-03-12 10:00
 comments: true
-categories: [teams, best practices, dev blog]
 keywords: startups, recruiting, engineering, developer blog, dev blog
 description: How to write a good developer blog for startups
-published: true 
+published: true
 ---
 
 I recently became a Director of Engineering at a startup and one of my first official tasks was to revitalize the company's very stale developer blog.  I started thinking about what makes a good dev blog, and began writing up recommendations for what I thought the team should do.  I got all the way through these and realized that I could have gone into nearly any startup and given this same advice.  So, here is some advice on how to run your startup's developer blog.
@@ -22,7 +21,7 @@ As a recruitment platform, you need to demonstrate that you are a team worth joi
 
 What kinds of teams to developers want to join?  With no scientific evidence and only a brief google search, but with 16 years as a working developer, I'm going to guess that most developers will say they want two things: 1) to work on cool shit with 2) people they enjoy being around.  Often developers will add that they also want to work at a company that values and supports their development team.  
 
-You need to demonstrate that you have the company culture that supports developers. That you are a self-reflective team that is able to process your failures and adjust accordingly.  That you are willing to work to deliver a quality product without burning out developers in the process. 
+You need to demonstrate that you have the company culture that supports developers. That you are a self-reflective team that is able to process your failures and adjust accordingly.  That you are willing to work to deliver a quality product without burning out developers in the process.
 
 #### And while we're talking about culture...
 
@@ -44,11 +43,11 @@ And rejoice when you get to share things you're learning and get feedback on thi
 
 ### What's in it for me?!
 
-You will benefit because doing this you will: 
+You will benefit because doing this you will:
 
 - think critically about your work
 - raise your public profile
-- increase your [open source contributions][] 
+- increase your [open source contributions][]
 
 And the most self-serving reason of all: it will make you a [better developer][].  If you're not a developer and don't care about any of those things, probably stop reading because I can't help you just yet.
 
@@ -71,16 +70,16 @@ all day to go home and code all night). If they don't work on side projects, enc
 
 If you're not sure, here are some more questions you can ask:
 
-- Did you try something new that worked? 
+- Did you try something new that worked?
 - Did you try something new that didn't work?
 - Did you stop doing something good or start doing something bad?
 - Did a team member take an action that impacted the rest of the team?
-- Did a major technology fail us? Why? 
+- Did a major technology fail us? Why?
 - Did something completely unexpected happen that threw us off course?
 - Did you systematically deny a truth that would have made this project better?
 - Did you under- or over-estimate?
 
-If you don't answer yes to at least a few of those questions, you may have a development team full of automatons.  Out of retrospectives and post-mortems come valuable insights about breakdown in process, changes that will improve workflow, and problems caused by technical short-sightedness.  Give your developers a task to write up an overview or deep-dive of this for the blog.  If it ends up filled with too much proprietary or otherwise private information, you've still won as a team because everyone can read it, and you've given a developer practice in distilling, organizing and presenting information.  At worst, you've helped your developer grow. At best, you've done that *and* benefited your blog. 
+If you don't answer yes to at least a few of those questions, you may have a development team full of automatons.  Out of retrospectives and post-mortems come valuable insights about breakdown in process, changes that will improve workflow, and problems caused by technical short-sightedness.  Give your developers a task to write up an overview or deep-dive of this for the blog.  If it ends up filled with too much proprietary or otherwise private information, you've still won as a team because everyone can read it, and you've given a developer practice in distilling, organizing and presenting information.  At worst, you've helped your developer grow. At best, you've done that *and* benefited your blog.
 
 **Keep a bucket list of possible blog topics.**
 
@@ -106,5 +105,3 @@ And if you're feeling altruistic, think about how you're joining in a [community
 [open source contributions]: http://news.ycombinator.com/item?id=5338719
 [community of practice]: http://en.wikipedia.org/wiki/Community_of_practice
 [drinking and exclusion]: http://ryanfunduk.com/culture-of-exclusion/
-
-

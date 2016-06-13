@@ -3,7 +3,6 @@ layout: post
 title: "Tech In Motion: Women in Tech"
 date: 2013-03-22 10:14
 comments: true
-categories: [nyc, tech, women in tech]
 keywords: tech in motion, women in tech, nyc, meetups
 description: A recap of the Women in Tech panel at the Tech in Motion meetup.
 published: true
@@ -13,7 +12,7 @@ published: true
 <blockquote class="twitter-tweet"><p>They may not be in Binders, but it's a room full of womentechies. <a href="https://twitter.com/search/%23TechInMotion">#TechInMotion</a> <a href="http://t.co/IoD3gEeZto" title="http://twitter.com/mmsuperflyjr/status/314880189857423360/photo/1">twitter.com/mmsuperflyjr/s…</a></p>&mdash; Mallory Johns (@mmsuperflyjr) <a href="https://twitter.com/mmsuperflyjr/status/314880189857423360">March 21, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Last night at AlleyNYC, I was part of the Women in Tech panel at the Tech in Motion meetup. On the eve of the SendGrid/Adria/PyCon debacle, we met to talk about being women in leadership positions, obstacles we've overcome, and advice for women who want to be leaders (and the  men that are in their lives). 
+Last night at AlleyNYC, I was part of the Women in Tech panel at the Tech in Motion meetup. On the eve of the SendGrid/Adria/PyCon debacle, we met to talk about being women in leadership positions, obstacles we've overcome, and advice for women who want to be leaders (and the  men that are in their lives).
 
 A quick round up of highlights of the event.
 
@@ -40,7 +39,7 @@ Not only did [Beth Gilfeather][] sneak me a glass of wine right before the panel
 
 [Carol Mirakove][] gave thougthful and nuanced advice about managing inappropriate workplace humor, staying informed and reading as much of everything as you can.
 
-Merrill Ferguson was a force to be reckoned with.  She gave spot-on advice about not caring what anyone thinks of you, not being afraid to say what you see going on around you, and about the importance of mentors. 
+Merrill Ferguson was a force to be reckoned with.  She gave spot-on advice about not caring what anyone thinks of you, not being afraid to say what you see going on around you, and about the importance of mentors.
 
 <blockquote class="twitter-tweet"><p>Merrill Ferguson wishes she had more female mentors/role models above her. Also no longer really cares what ppl think of her.<a href="https://twitter.com/search/%23techinmotion">#techinmotion</a></p>&mdash; rachelsklar (@rachelsklar) <a href="https://twitter.com/rachelsklar/status/314887717567750144">March 21, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -60,11 +59,11 @@ Even though my parting advice was to be cocky, I was honored and humbled to be o
 <blockquote class="twitter-tweet"><p>Nikki Stevens VP Eng @<a href="https://twitter.com/refinery29">refinery29</a> laying it out. Been told "watch tone; strong personality; step off" as a woman in tech. <a href="https://twitter.com/search/%23techinmotion">#techinmotion</a></p>&mdash; Cynthia Schames (@CynthiaSchames) <a href="https://twitter.com/CynthiaSchames/status/314883924692172800">March 21, 2013</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-After the panel, a man came up to me and asked what he should do when *he* has a problem with a woman's tone. I gave him the best advice I could think of, but more than the advice, I loved that he asked. 
+After the panel, a man came up to me and asked what he should do when *he* has a problem with a woman's tone. I gave him the best advice I could think of, but more than the advice, I loved that he asked.
 
 If I missed you or we didn't connect, I'd love to hear from you.
 
-Huge thanks to all of the women on the panel: [Anna Khan][], [Carol Mirakove][], [Beth Gilfeather][], [Merrill Ferguson][], [Cailin Nelson][], [Lindsay Bressler][]; moderator [Mandy Walker][]; host [Sloane Barbour][] and of course Rachel Sklar, [being all over the internet][] even when she was with us. 
+Huge thanks to all of the women on the panel: [Anna Khan][], [Carol Mirakove][], [Beth Gilfeather][], [Merrill Ferguson][], [Cailin Nelson][], [Lindsay Bressler][]; moderator [Mandy Walker][]; host [Sloane Barbour][] and of course Rachel Sklar, [being all over the internet][] even when she was with us.
 
 
 <blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr">What an amazing turn out for <a href="https://twitter.com/hashtag/womenintech?src=hash">#womenintech</a> hosted by <a href="https://twitter.com/hashtag/techinmotion?src=hash">#techinmotion</a> <a href="https://twitter.com/hashtag/nyc?src=hash">#nyc</a> <a href="http://t.co/Jy0lNtH9rr">pic.twitter.com/Jy0lNtH9rr</a></p>&mdash; Workbridge NY (@WorkbridgeNY) <a href="https://twitter.com/WorkbridgeNY/status/314887708201865216">March 21, 2013</a></blockquote>
