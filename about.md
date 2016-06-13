@@ -9,9 +9,9 @@ Hi, I'm Nikki.  I'm a software engineer and technology manager located in San Di
 When I'm not writing code, I climb rocks, fight people in Krav Maga, and take my [bulldog][] to the park.
 
 <h4>Speaking Experience</h4>
-- "Together We Can Be the Example for Diversity in Tech". _Drupalcon New Orleans_, May 2016
-- "Getting your First Developer Job". _Sandcamp 2016_, San Diego, CA. February 2016
-- "The process of making a website". _Sandcamp 2016_, San Diego, CA. February 2016
+- "Together We Can Be the Example for Diversity in Tech." _Drupalcon New Orleans_, May 2016
+- "Getting your First Developer Job." _Sandcamp 2016_, San Diego, CA. February 2016
+- "The process of making a website." _Sandcamp 2016_, San Diego, CA. February 2016
 - "How to be an ally to everyone". _Sandcamp 2016_, San Diego, CA. February 2016
 - “Empowering Women in Business with 2014 Miss World.” New York, NY. May 27, 2014
 - "Lessons Learned: Overcoming Our Mistakes." Facebook. New York, NY. May 14, 2013
