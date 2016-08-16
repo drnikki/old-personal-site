@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Diversity Survey Challenges"
+title: "Nothing About Us Without Us"
 date: 2016-08-03 10:25
 comments: true
 published: true
