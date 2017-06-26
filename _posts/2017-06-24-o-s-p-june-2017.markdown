@@ -52,11 +52,11 @@ Lurie, Y., &amp; Mark, S. (2015. Professional Ethics of Software Engineers: An E
 I also revisited the following classics from the recent #drupaldrama
 
 <ul>
-<li> Dunlap, G. (2014). Stay for the community. Retrieved March 25, 2017, from [https://medium.com/@heyrocker/this-article-was-originally-a-keynote-presentation-at-the-pacific-northwest-drupal-summit-in-5e7c7f93131b#.my45b0i99](https://medium.com/@heyrocker/this-article-was-originally-a-keynote-presentation-at-the-pacific-northwest-drupal-summit-in-5e7c7f93131b#.my45b0i99)
-<li> Garfield, L. (2017). TMI About me. Retrieved March 26, 2017, from [https://www.garfieldtech.com/blog/tmi-outing](https://www.garfieldtech.com/blog/tmi-outing)
-<li> Evans, J. (2017). Sex and Gor and open source. Retrieved March 26, 2017, from [https://techcrunch.com/2017/03/26/sex-and-gor-and-open-source/](https://techcrunch.com/2017/03/26/sex-and-gor-and-open-source/)
-<li> Koehler, C. (2017). Thoughts on recent Drupal governance decisions | Subfictional Studios. Retrieved April 30, 2017, from [https://subfictional.com/thoughts-on-recent-drupal-governance-decisions/](https://subfictional.com/thoughts-on-recent-drupal-governance-decisions/)
-<li> Garfield, L. (2017). Response to conversations about me. Retrieved March 27, 2017, from [https://www.garfieldtech.com/blog/tmi-part-2](https://www.garfieldtech.com/blog/tmi-part-2)
+<li> Dunlap, G. (2014). Stay for the community. Retrieved March 25, 2017, from https://medium.com/@heyrocker/this-article-was-originally-a-keynote-presentation-at-the-pacific-northwest-drupal-summit-in-5e7c7f93131b#.my45b0i99 </li>
+<li> Garfield, L. (2017). TMI About me. Retrieved March 26, 2017, from https://www.garfieldtech.com/blog/tmi-outing </li>
+<li> Evans, J. (2017). Sex and Gor and open source. Retrieved March 26, 2017, from https://techcrunch.com/2017/03/26/sex-and-gor-and-open-source/</li>
+<li> Koehler, C. (2017). Thoughts on recent Drupal governance decisions | Subfictional Studios. Retrieved April 30, 2017, from https://subfictional.com/thoughts-on-recent-drupal-governance-decisions/ </li>
+<li> Garfield, L. (2017). Response to conversations about me. Retrieved March 27, 2017, from https://www.garfieldtech.com/blog/tmi-part-2</li>
 </ul>
 
 
