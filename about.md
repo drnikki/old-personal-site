@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, I'm Nikki.  I'm a software engineer and technology manager located in San Diego (but working remotely for companies across America).  My [LinkedIn][] is the most up-to-date place to read about my engineering experience.  
 
-I'm also the founder and lead of the <a href="http://www.drupaldiversity.com">Drupal Diversity Working Group</a>.  
+I'm also the founder and lead of the <a href="http://drupaldiversity.com">Drupal Diversity Working Group</a>.  
 
 When I'm not writing code, I climb rocks, do improv, and take my [bulldog][] to the park.
 
