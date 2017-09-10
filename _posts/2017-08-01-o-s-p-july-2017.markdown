@@ -7,7 +7,6 @@ published: true
 ---
 
 
-
 I spent July thinking about open source community health:
 - how do measures of open source project success interact with measures of community health? (they don't, because no measures of community health exist)
 - what would a "healthy" open source community look like?
