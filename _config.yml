@@ -2,7 +2,7 @@
 title: Nikki Stevens
 email: nikki@drnikki.org
 description: > # this means to ignore newlines until "baseurl:"
-  Nikki Stevens is an open-source software engineer and technology manager.  It's all about Drupal, diversity, technology and bulldogs.
+  Nikki Stevens is an open-source software engineer and PhD student.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.drnikki.org" # the base hostname & protocol for your site
 twitter_username: drnikki
