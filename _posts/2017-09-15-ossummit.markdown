@@ -6,8 +6,7 @@ comments: true
 published: true
 ---
 
-Before the evaporate into internet ephemera, and in lieu of a proper blog post, here is my OSSummit in tweets:
-
+Before it all evaporates into internet ephemera, and in lieu of a proper blog post, here is my OSSummit in tweets:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Say hi if you are also at <a href="https://twitter.com/hashtag/OSSummit?src=hash">#OSSummit</a> <a href="https://t.co/hpr0xOLYgH">pic.twitter.com/hpr0xOLYgH</a></p>&mdash; nikki stevens (@drnikki) <a href="https://twitter.com/drnikki/status/907383087092215809">September 11, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
