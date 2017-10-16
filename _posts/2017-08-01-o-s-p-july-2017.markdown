@@ -4,6 +4,7 @@ title: "Open Source PhD: July 2017"
 date: 2017-08-01 10:25
 comments: true
 published: true
+categories: [open-source-phd]
 ---
 
 

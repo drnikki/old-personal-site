@@ -4,6 +4,7 @@ title: "Open Source PhD: September 2017"
 date: 2017-9-30 10:25
 comments: true
 published: true
+categories: [open-source-phd]
 ---
 
 I spent September struggling to stay afloat.  The way work was structured, I was able to spend time thinking about fewer ideas, but exploring them more fully.  This month, those ideas were:
