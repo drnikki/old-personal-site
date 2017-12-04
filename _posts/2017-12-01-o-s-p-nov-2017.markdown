@@ -7,10 +7,7 @@ published: true
 categories: [open-source-phd]
 ---
 
-I spent October juggling projects (many not my own), and found that I was returning to some fundamental questions that I left unanswered (or didn't answer satisfactorily) at the start of the semester:
-- what difference do professional codes of ethics make if people don't follow them
-- if people wanted to follow their professional codes, would they be free to do so?
-- (and, a classic) is ethical engineering even possible under a corrupt capitalist system?
+November was a shorter school month, and was mostly filled with doing everything I could to get things ready for spring and wrapped up for fall. I did a _lot_ of writing for assignments and projects, and made a conscious effort to not read more than I needed to and to instead work to integrate what I'd already read.
 
 <hr>
 Below is a list of books and articles I read this month.
