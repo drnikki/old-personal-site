@@ -18,3 +18,15 @@ timezone: America/Los_Angeles
 
 gems:
 - jekyll-redirect-from
+- jekyll-paginate-v2
+
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
