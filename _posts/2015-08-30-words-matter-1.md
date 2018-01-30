@@ -5,8 +5,6 @@ date: 2015-08-01 10:14
 comments: true
 published: true
 ---
-![My helpful screenshot]({{ site.url }}/_assets/20150830.jpg)
-
 
 ### "Thanks, guys."
 In July, my company's in-house technology department comprised Jason Savino, Mike Klass and me. During morning standups, there would be the three of us and a few male stakeholders - the VP of Product, a project manager, maybe the VP of Growth. But everyone on the call was male.  
@@ -19,17 +17,17 @@ One day, Savino said to me, "Hey, you should stop using 'guys'."
 
 There are really two lessons here: one, always hire people who will tell you when you're saying something stupid; and two, **there's never a good reason to gender a group**.  _Even if_ it's a group of men. _Even if_ you know for sure that all of those men identify as male and are comfortable being addressed with male pronouns and male collective words.
 
-<img src="/images/posts/when-greeting-customers.jpg" />
+<img src='{{"/assets/when-greeting-customers.jpg" | absolute_url }}' class="img-med" />
 
 ### The Guys Jar
 
 Because we are a behavior change company that incentivizes change with money, I created the "Guys" jar.
 
-<img src="/images/posts/20150830.jpg" class="img-med" />
+<img src='{{"/assets/20150830.jpg" | absolute_url }}' class="img-med" />
 
 Inspired by the swear jar (which, if we're being honest, I could also benefit from), I'm putting a dollar into the jar for each time I used a gendered collective word. Every time I say "guys," $1. "Dudes" or "bros?" $1.  "Kind and gentle sirs," $1 and a trip back to the present day.
 
-There is a lot of <a href="<a href="https://subfictional.com/2012/07/02/language-matters-stop-using-guys-to-address-mix-gender-groups/">excellent</a> <a href="http://mic.com/articles/115090/guys-can-we-stop-calling-everyone-guys-already">writing</a> about why we should address groups of people without being exclusionary or gendered and I won't repeat it here.
+There is a lot of <a href="https://subfictional.com/2012/07/02/language-matters-stop-using-guys-to-address-mix-gender-groups/">excellent</a> <a href="http://mic.com/articles/115090/guys-can-we-stop-calling-everyone-guys-already">writing</a> about why we should address groups of people without being exclusionary or gendered and I won't repeat it here.
 
 The one thing that I'm still struggling with is that after I exorcise 'guys' from my vocabulary, something else has to take its place.
 
