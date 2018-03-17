@@ -4,6 +4,7 @@ title: "Open Source Summit"
 date: 2017-09-15 10:25
 comments: true
 published: true
+categories: [conferences]
 ---
 
 Before it all evaporates into internet ephemera, and in lieu of a proper blog post, here is my OSSummit in tweets:
