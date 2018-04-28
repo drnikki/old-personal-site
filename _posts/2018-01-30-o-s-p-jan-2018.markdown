@@ -10,7 +10,7 @@ categories: [open-source-phd]
 This month, I'm focused on getting a few big presentations ready, and writing a three large projects.  I'm trying not to get interested in anything new (which is hard, because there's so many good and interesting things!), but instead to produce something from all of my questioning last semester.
 
 I have assigned reading to do, of course, but over the next 4 months, I'm going to be reading and writing exclusively in the following areas (or I'll never get anything done):
-- epistemelogical structures of computing systems & their parallels to non-computing systems (aka, blockchain and whisper networks)
+- epistemological structures of computing systems & their parallels to non-computing systems (aka, blockchain and whisper networks)
 - the boundaries of an ethical engineer's abilities and responsibilities
 - ethical demographic data collection in (open source) technology communities
 

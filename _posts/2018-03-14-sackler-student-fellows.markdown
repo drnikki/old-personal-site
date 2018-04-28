@@ -6,7 +6,7 @@ comments: true
 published: true
 categories: [conferences]
 ---
-I had the great privilege of being selected as a Sackler Symposium Student Fellow this year.  The Fellows Symposium had 48 speakers presenting their work, and it was a long and wondeful whirlwind.  You can see all of it at the early end of the #CreateCollab2018 hashtag.
+I had the great privilege of being selected as a Sackler Symposium Student Fellow this year.  The Fellows Symposium had 48 speakers presenting their work, and it was a long and wonderful whirlwind.  You can see all of it at the early end of the #CreateCollab2018 hashtag.
 
 The few that I managed to capture:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">William Wiebe: on the literal disappearance of bodies, how artists work with unanswerable questions, and the transformation of visual culture through machine learning <a href="https://twitter.com/hashtag/CreateCollab2018?src=hash&amp;ref_src=twsrc%5Etfw">#CreateCollab2018</a> <a href="https://twitter.com/theNASciences?ref_src=twsrc%5Etfw">@theNASciences</a> <a href="https://t.co/AfEkGvKN9l">pic.twitter.com/AfEkGvKN9l</a></p>&mdash; nikki stevens (@drnikki) <a href="https://twitter.com/drnikki/status/973276658215063552?ref_src=twsrc%5Etfw">March 12, 2018</a></blockquote>
