@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: Nikki Stevens is an open-source software engineer, PhD student, software engineering ethics researcher.  She is available for consulting and public speaking.
 ---
 
 Hi, I'm Nikki.  I'm a software engineer and PhD student in Tempe, AZ.  If you're curious about my engineering experience, check out my [LinkedIn][]; the tl;dr is - Drupal 6,7,8, fancy projects, architecture, technical manager.
@@ -21,6 +22,8 @@ If you're also interested in any of the above, I'd love to talk to you.
 When I'm not writing code or writing papers, I climb rocks, do improv, and take my [bulldog][] to the park.
 
 #### recent presentations / talks
+I'm available to speak at your event.  My recent presentations are below, some of which have audio and/or video.
+- <a href="https://www.youtube.com/embed/vtfCOgmA7lc">TexasCamp Keynote</a> May 2018
 - <a href="https://events.drupal.org/nashville2018/sessions/exciting-ethical-engineering">Exciting Engineering Ethics</a> _Drupalcon Nashville_. April 2018.
 - Open Demographics overview. _Sackler Student Fellows Symposium_. March 2018.
 - <a href="https://www.youtube.com/watch?v=3P97-uiYWXU&list=PLsRNoUx8w3rMjnddlkIXeySLOHfqFxDLy">_TEDxASU_</a>.  March 2018

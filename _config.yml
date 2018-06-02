@@ -21,3 +21,7 @@ gems:
 
 plugins:
 - jekyll-paginate
+- jekyll-sitemap
+
+# https://jekyllrb.com/docs/permalinks/#builtinpermalinkstyles
+permalink: :title
