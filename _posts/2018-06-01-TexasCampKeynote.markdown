@@ -5,13 +5,14 @@ date: 2018-06-01 10:25
 comments: true
 published: true
 categories: [conferences]
+permalink: /conferences/2018/06/01/TexasCampKeynote.html
 ---
 
 Today, I was honored to give the opening keynote at <a href="https://2018.texascamp.org/">TexasCamp</a>.  The organizing team has done such a good job with this camp that the logistics have become invisible.  
 
 Below is the video of my talk:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vtfCOgmA7lc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-[Kevin Thull](https://twitter.com/kevinjthull) is a super Drupal hero for getting video of this up and for magically making my dog the thumbnail of the video.  Thanks, Kevin! 
+[Kevin Thull](https://twitter.com/kevinjthull) is a super Drupal hero for getting video of this up and for magically making my dog the thumbnail of the video.  Thanks, Kevin!
 
 As promised in that video above, here is a [PDF of my slides](https://github.com/drnikki/drnikki.github.io/raw/58acb0a7c77fa67625ee513346524a8867244045/_assets/TexasCampKeynote.pdf).
 

@@ -7,7 +7,7 @@ published: true
 categories: [open-source-phd]
 ---
 
-The semester is finally over! I made it out without too many tears, and I spent the semester break doing some school reading but mostly I read junk and loved it. 
+The semester is finally over! I made it out without too many tears, and I spent the semester break doing some school reading but mostly I read junk and loved it.
 
 <hr>
 Below is a list of books and articles I read this month for school.
@@ -29,4 +29,4 @@ Below is a list of books and articles I read this month for school.
 
 Some of the above are pictured below - amongst the fun things I read while on semester break.
 
-<img src='{{"/assets/2017-read.jpg" | absolute_url }}' />
+<img src='https://raw.githubusercontent.com/drnikki/drnikki.github.io/master/_assets/2017-read.jpg' />
