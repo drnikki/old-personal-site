@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Open Source PhD: Summer (May-Aug) 2018"
-date: 2018-08-31 10:25
+title: "Open Source PhD: September 2018"
+date: 2018-09-30 10:25
 comments: true
 published: true
 categories: [open-source-phd]
 ---
 
-Welp, September is the first full month of the semester and it sure felt like it.  This fall I'm in a class on Surveillance and Society with Marisa Duarte and Andrew Brown, and reading a book a week with Emma Frow.  Those are reflected below, in addition to some reading for a journal article I'm working on.  Next month, it's back to my second year project and working on reading lists for my comprehensive exams. 
+Welp, September is the first full month of the semester and it sure felt like it.  This fall I'm in a class on Surveillance and Society with Marisa Duarte and Andrew Brown, and reading a book a week with Emma Frow.  Those are reflected below, in addition to some reading for a journal article I'm working on.  Next month, it's back to my second year project and working on reading lists for my comprehensive exams.
 <hr>
 
 
