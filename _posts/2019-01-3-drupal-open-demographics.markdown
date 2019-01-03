@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drupal and demographic information"
-date: 2019-01-02 10:25
+date: 2019-01-03 10:25
 comments: true
 published: true
 ---
@@ -21,7 +21,7 @@ This is just a quick overview post on what's happening with Drupal.org (owned by
 
 - In May 2017, I created [Open Demographics](https://github.com/drnikki/open-demographics) - an open source project designed to crowd source the demographic fields.  
 
-- In cooperation with the Drupal Diversity and Inclusion Contrib Team (disclosure: I founded DD&I, but Tara King (sparklingrobots) and others have lead this initiative) took over [Jesse Beach](https://www.drupal.org/u/jessebeach)Beach's [gender module](https://www.drupal.org/project/gender) and have been working to make it compatible with Open Demographics.
+- In cooperation with the Drupal Diversity and Inclusion Contrib Team (disclosure: I founded DD&I, but [Tara King](https://www.drupal.org/u/sparklingrobots) and others have lead this initiative) took over [Jesse Beach](https://www.drupal.org/u/jessebeach)[gender module](https://www.drupal.org/project/gender) and have been working to make it compatible with Open Demographics.
 
 - On May 9, Dries (the founder of Drupal) wrote [a blog post announcing that Drupal.org was going to use the Open Demographics project](https://www.drupal.org/blog/offering-more-inclusive-user-demographic-forms) to power the demographic portion of the user profile fields on Drupal.org.  
 
@@ -29,7 +29,7 @@ This is just a quick overview post on what's happening with Drupal.org (owned by
 
 ## Current Status
 
-- There is an [open issue](https://www.drupal.org/project/drupalorg/issues/2971410)for this integration
+- There is an [open issue](https://www.drupal.org/project/drupalorg/issues/2971410) for this integration
 
 - There are conversations about _why_ this data is necessary and what will be done with it (including how it will be stored, who will have access) when it is collected.
 
