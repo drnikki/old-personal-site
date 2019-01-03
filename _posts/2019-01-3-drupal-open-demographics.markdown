@@ -36,3 +36,10 @@ This is just a quick overview post on what's happening with Drupal.org (owned by
 - The [gender field has been removed from drupal.org](https://www.drupal.org/project/drupalorg/issues/3002329)
 
 - A [pronoun field](https://www.drupal.org/project/drupalorg/issues/2961229) has been added
+
+
+## Other Information
+(mostly for my reference)
+- Sage Sharp's [tweets](https://twitter.com/_sagesharp_/status/955858449132220416) on why D.o needs to collect gender as a barrier to registration (this was before the field was removed)
+
+- [Geek feminism wiki's recap of the above](http://geekfeminism.wikia.com/wiki/Drupal.org_gender_discussions)
