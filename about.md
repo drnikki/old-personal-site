@@ -8,14 +8,15 @@ description: Nikki Stevens is an open-source software engineer, PhD student, sof
 Hi, I'm Nikki.  I'm a software engineer and PhD student in Tempe, AZ.  If you're curious about my engineering experience, check out my [LinkedIn][]; the tl;dr is - Drupal 6,7,8, fancy projects, architecture, technical manager.
 
 #### open source
-I'm an active open source volunteer and community organizer. In 2016, I founded the <a href="http://drupaldiversity.com">Drupal Diversity Working Group</a> as a response to the abysmal lack of diversity in the Drupal community. In 2017, I started the <a href="https://github.com/drnikki/open-demographics">Open Demographics Initiative</a>, as a response to watching communities struggle with how to manage their participant demographic data.   
+I'm an active open source volunteer and community organizer. In 2016, I founded the <a href="http://drupaldiversity.com">Drupal Diversity Working Group</a> as a response to the abysmal lack of diversity in the Drupal community. In 2017, I started the <a href="https://github.com/drnikki/open-demographics">Open Demographics Initiative</a>, as a response to watching communities struggle with how to manage their participant demographic data.   In 2018, I stepped down from the <a href="http://drupaldiversity.com">Drupal Diversity Working Group</a>, both because I believe in healthy and transparent leadership transitions, and because I was having concerns about whether D&I is the right approach at all. (I still am, happy to discuss if you'd like.)
 
 #### school
-I'm a PhD student in <a href="https://sfis.asu.edu/hsd-welcome">Human and Social Dimensions of Science and Technology</a>. At parties, I tell people that I study "software engineering ethics."  This is a 100% true statement, but if you ask for more detail, I'll tell you that I'm interested in a few overlapping areas:
-- what can make open source communities healthy and safe (especially for people who are part of under-represented groups)?
-- what can empower software engineers to act ethically as individuals and community members? (sub question: what would a social justice determined, community oriented, reparations focused, intersectionally grounded set of ethics for software engineers look like?)
+I'm a PhD student in <a href="https://sfis.asu.edu/hsd-welcome">Human and Social Dimensions of Science and Technology</a>. At parties, I tell people that I study "software engineering and data ethics."  This is a 100% true statement, but if you ask for more detail, I'll tell you that I'm interested in a few overlapping areas:
+- can data be intersectional?  if so, what implications does that have for folks who collect, use, generate data?
+- related: what is the nature of data we generate in our normal lives? this is, likely, a career-long data ontology curiosity.  
+- what can empower software engineers to act ethically as individuals and community members? (sub question: what would a social justice determined, community oriented, reparations focused, intersectionally-grounded set of ethics for software engineers look like?)
 - what deliberate technological interventions can we make to directly counteract systemic injustices like racism, sexism and ableism?
-- can data be intersectional?  if so, what implications does that have for folks who use data?
+- - what (if anything!) can make open source communities healthy and safe (especially for people who are part of under-represented groups)?
 
 If you're also interested in any of the above, I'd love to talk to you.
 
