@@ -1,6 +1,6 @@
 # Site settings
 title: Nikki Stevens
-email: nikkilstevens@gmail.com
+email: nikki.stevens@asu.edu
 description: > # this means to ignore newlines until "baseurl:"
   Nikki Stevens is an open-source software engineer and PhD student.
 baseurl: "" # the subpath of your site, e.g. /blog/
