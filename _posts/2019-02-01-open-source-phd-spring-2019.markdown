@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Source PhD: Spring 2019"
-date: 2018-02-01 10:25
+date: 2019-02-01 10:25
 comments: true
 published: true
 categories: [open-source-phd]
