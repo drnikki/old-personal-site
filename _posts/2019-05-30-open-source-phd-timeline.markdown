@@ -13,4 +13,4 @@ For the social history of computing field, I prepared a fully annotated history 
 
 You'll also note that the timeline stops in the early 1990s.  This is both where my sources started to dwindle and where my personal knowledge of computing kicks in.  Like most of the rest of my work, this is released as Attribution-NonCommercial-ShareAlike (CC BY-NC-SA).  
 
-Computing Timeline  
+[Computing Timeline](https://github.com/drnikki/drnikki.github.io/raw/master/_assets/Stevens-computing-timeline.pdf)  
