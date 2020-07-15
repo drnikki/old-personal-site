@@ -1,0 +1,11 @@
+---
+layout: post
+title: "DrupalCon 2020: Slides and Resources"
+date: 2020-07-15 10:25
+comments: false
+published: true
+categories: [conferences]
+---
+
+Placeholder for resources for my talk "Trans Drupal" at DrupalCon Global 2020.  
+
